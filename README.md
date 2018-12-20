@@ -1,2 +1,0 @@
-# typiAngular
-Created with CodeSandbox
